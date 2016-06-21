@@ -1,0 +1,24 @@
+@media screen and (max-width: 980px){
+
+	body{
+	    background-color: #d9d9d9;
+	}
+	div#content {
+    	width: 400px;
+    	margin: auto;
+    	padding-top: 20px;
+    	text-align: center;
+	}
+}
+@media screen and (max-width: 650px){
+
+	body{
+	    background-color: #ffffff;
+	}
+	div#content {
+    	width: 400px;
+    	margin: auto;
+    	padding-top: 20px;
+    	text-align: left;
+	}
+}
