@@ -5,6 +5,7 @@ div#content {
    	width: 50%;
    	margin: auto;
    	padding-top: 20px;
+	margin-top: 1000px;
    	text-align: center;
 }
 div#contact {
@@ -36,11 +37,6 @@ img.screenshot {
 	height: auto;
 	margin: 25px 5px 25px 5px;
 }
-
-a.homelink {
-	text-align: left;
-}
-
 
 @media screen and (max-width: 800px){
 
