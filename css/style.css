@@ -76,6 +76,11 @@ div#contact h1{
 }
 div#contact p.contactTitle{
 	color: #009933;
+	margin-bottom: 0px;
+}
+
+div#contact p.contactInfo{
+	margin-top: 0px;
 }
 div#contact p{
 	font-size: 18px;
